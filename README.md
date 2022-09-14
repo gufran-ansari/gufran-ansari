@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @gufran-ansari
+- 👋 Hi, I’m Gufran Ansari.
 - 👀 I’m interested in Web Developement.
 - 🌱 I’m currently working as an intern.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at https://www.instagram.com/gufran.dev/
+- 📫 Reach me at
+     - Instagram: https://www.instagram.com/codezyners/
+     - LinkedIn: https://www.linkedin.com/codezyners/
+     - Facebook: https://www.facebook.com/codezynerss/
+     - Dribble: https://www.dribble.com/codezyners/
 
 <!---
 gufran-ansari/gufran-ansari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
